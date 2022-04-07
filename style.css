@@ -1,11 +1,23 @@
 body {
-  background: #1BFFAC;
-background: -moz-radial-gradient(center, #1BFFAC 0%, #47E4F8 30%, #9F9F9F 100%);
-background: -webkit-radial-gradient(center, #1BFFAC 0%, #47E4F8 30%, #9F9F9F 100%);
-background: radial-gradient(ellipse at center, #1BFFAC 0%, #47E4F8 30%, #9F9F9F 100%);
+  background: #1ffc9c;
+  background: -moz-radial-gradient(
+    center,
+    #1ffc9c 0%,
+    #2db4cb 62%,
+    #98869b 100%
   );
-  background: linear-gradient(to bottom, #1bffac 0%, #47e4f8 30%, #0b9f85 100%);
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background: -webkit-radial-gradient(
+    center,
+    #1ffc9c 0%,
+    #2db4cb 62%,
+    #98869b 100%
+  );
+  background: radial-gradient(
+    ellipse at center,
+    #1ffc9c 0%,
+    #2db4cb 62%,
+    #98869b 100%
+  );
 }
 h1 {
   box-shadow: 2px 2px 7px 1px #00b395;
