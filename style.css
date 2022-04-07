@@ -1,23 +1,5 @@
 body {
-  background: #1ffc9c;
-  background: -moz-radial-gradient(
-    center,
-    #1ffc9c 0%,
-    #2db4cb 62%,
-    #98869b 100%
-  );
-  background: -webkit-radial-gradient(
-    center,
-    #1ffc9c 0%,
-    #2db4cb 62%,
-    #98869b 100%
-  );
-  background: radial-gradient(
-    ellipse at center,
-    #1ffc9c 0%,
-    #2db4cb 62%,
-    #98869b 100%
-  );
+  background: black;
 }
 h1 {
   color: #ffffff;
