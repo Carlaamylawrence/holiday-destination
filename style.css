@@ -20,10 +20,11 @@ body {
   );
 }
 h1 {
+  color: #ffffff;
   box-shadow: 2px 2px 7px 1px #00b395;
 }
 h2 {
-  color: #009d82;
+  color: #004338;
 }
 h3 {
   font-size: 16;
